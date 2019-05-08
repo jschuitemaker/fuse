@@ -8,6 +8,8 @@ The example can be built with
 
     mvn clean install
 
+## hook 
+
 ### Running the example in OpenShift
 
 It is assumed that:
