@@ -81,13 +81,7 @@
       <artifactId>hsqldb</artifactId>
       <scope>runtime</scope>
     </dependency>
-       <!-- Oracle JDBC driver -->
-        <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>ojdbc8</artifactId>
-            <version>12.2.0</version>
-            <scope>compile</scope>
-        </dependency>
+
     <!-- testing -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
